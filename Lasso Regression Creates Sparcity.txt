@@ -1,0 +1,6 @@
+VIP QUESTION OF INTERVIEW
+
+
+jo lambda ata h lasso k case k main wo numerator ma ata h or wahan se wo usko zero derive krwa pata h 
+where as
+ridge k case ma jo lamda h ye denominator ma ata h or or phr zero hona ya na hona numerator ki value pr depend krta h or generally numerator ka value zero nhi hota , that is why apky coefficients ka value pori trhn zero nhi ho pata , bht chota ho jay ga but pory triky se zero nhi hoga 
